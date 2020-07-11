@@ -1,4 +1,4 @@
-const dotenv = require('dotenv');
-dotenv.config();
-    "authToken": process.env.BOT_TOKEN, 
-    "owner": process.env.OWNER_ID
+{
+    "authToken": 1213017389:AAHbaW-d-F2hMyPLt1TNp1Tm-8vbBdtqClo, 
+    "owner": 490781867
+}
