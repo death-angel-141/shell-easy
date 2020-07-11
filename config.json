@@ -1,6 +1,4 @@
-{
 const dotenv = require('dotenv');
 dotenv.config();
     "authToken": process.env.BOT_TOKEN, 
     "owner": process.env.OWNER_ID
-}
