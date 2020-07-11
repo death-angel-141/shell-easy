@@ -1,6 +1,16 @@
 {
   "name": "Shell-bot",
   "repository": "https://github.com/magneto261290/shell-bot",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "enter bot token",
+      "value": ""
+    },
+    "OWNER": {
+      "description": "enter Owner ID",
+      "value": ""
+    }
+  },
   "addons": [],
   "buildpacks": [
     {
